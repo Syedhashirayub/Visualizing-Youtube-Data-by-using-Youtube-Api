@@ -14,7 +14,14 @@ I have created virtual environment by using anaconda then install "google-api-py
 I used Jupyter notebook for writing my puthon code. I have extracted channel details from youtube for Self-Improvement channels like Hamza, Dre-Dexler and many-more then compare these channels data with each other by loading all this data into a pandas dataframe. Also generated some visualization using seaborn python library.
 ![image](https://user-images.githubusercontent.com/100124377/229523493-4bbdee30-338e-4144-9204-6b9bed189fe2.png)
 
+![Screenshot 2023-04-03 at 9 54 52 PM](https://user-images.githubusercontent.com/100124377/229570944-8ab0bcf1-daac-41da-b957-fd7565a7fe0e.png)
+
 Then we extract details about a particular channel(Hamza) like top 10 videos, most viewed video of the channel and likes. Then we analyzed the data.
+
+![Screenshot 2023-04-03 at 9 56 02 PM](https://user-images.githubusercontent.com/100124377/229571030-32459e6b-9cb1-4372-b659-806f8d71962b.png)
+
+![Screenshot 2023-04-03 at 9 57 34 PM](https://user-images.githubusercontent.com/100124377/229571074-dd0ad41c-b015-4dfa-a49d-0269fbdeb5e4.png)
+
 
 At last, I loaded all this data of a particular channel(Hamza) from pandas dataframe to a csv file(I also uploaded the csv file on this repository).
 
