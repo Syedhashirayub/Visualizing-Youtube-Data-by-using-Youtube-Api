@@ -6,6 +6,7 @@
 Firstly, we will be creating an YouTube API Key by going to Google Developer Console which will be our credential to access youtube data. We will be using Youtube data API v3. Then create API key.
 
 Once the API Key is generated, then we will use this API key to access different youtube data. 
+
 ![image](https://user-images.githubusercontent.com/100124377/229520259-99b75320-0cb9-47e6-b931-9f0df3499ec2.png)
 
 I have created virtual environment by using anaconda then install "google-api-python-client" (which is the google python package required to access youtube api data), also installed pandas and seaborn.
